@@ -6,7 +6,7 @@ assets/
 
 # Extensions
 *.so
-*.pnp
+*.png
 
 # Distribution / packaging
 .Python
